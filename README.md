@@ -1,7 +1,7 @@
 ---
-
-```markdown
 # 🧑‍🎓 Student Registration App (Django + PostgreSQL)
+```markdown
+
 
 This is a basic **Student Registration Web Application** built using the **Django** framework and **PostgreSQL** as the database.  
 The app allows users to register students with their **name, age, and class**, and view all registered students in a clean, responsive UI using **Bootstrap**.
